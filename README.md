@@ -40,8 +40,7 @@ MTA-Crawler/
 ├── crawler.py        # Main crawler — entry point
 ├── uas.py            # User-Agent pool (60+ device profiles)
 ├── requirements.txt  # Python dependencies
-├── urls.txt          # Example seed file
-└── .gitignore
+└── urls.txt          # Example seed file
 ```
 
 ---
