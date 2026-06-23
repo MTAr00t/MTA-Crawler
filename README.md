@@ -175,6 +175,9 @@ A directed graph where:
 
 Import into **Gephi**, **Cytoscape**, **yEd**, or visualise in Python:
 
+https://github.com/MTAr00t/MTA-Crawler/blob/main/gephi-result.PNG
+
+
 ```python
 import networkx as nx
 G = nx.read_graphml("crawl.graphml")
