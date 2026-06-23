@@ -175,7 +175,7 @@ A directed graph where:
 
 Import into **Gephi**, **Cytoscape**, **yEd**, or visualise in Python:
 
-https://github.com/MTAr00t/MTA-Crawler/blob/main/gephi-result.PNG
+![Alt text describing the image](gephi-result.PNG)
 
 
 ```python
